@@ -246,7 +246,8 @@ return 0;
 }
 ```
 ## OUTPUT:
-![image](https://github.com/22008421/Cryptography---19CS412-classical-techqniques/assets/119476328/d5008d47-8cbe-4f9d-b4cd-7fee2ec1ca32)
+![Screenshot 2024-09-02 093314](https://github.com/user-attachments/assets/8db0dae7-82c4-43a5-be8c-e31a6d5f163e)
+
 
 ## RESULT:
 The program is executed successfully
@@ -374,7 +375,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/22008421/Cryptography---19CS412-classical-techqniques/assets/119476328/8a7c74c4-5e25-4023-8498-81944038becf)
+![Screenshot 2024-09-02 093635](https://github.com/user-attachments/assets/8f899d02-f4d0-4947-a365-1ff762c8899e)
+
 
 ## RESULT:
 The program is executed successfully
@@ -458,7 +460,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/22008421/Cryptography---19CS412-classical-techqniques/assets/119476328/81b8d771-ec85-4d04-9714-cea9e413c715)
+![Screenshot 2024-09-02 093932](https://github.com/user-attachments/assets/39622f05-5ad0-4761-8ba8-e8582403c731)
+
 
 ## RESULT:
 The program is executed successfully
