@@ -560,7 +560,8 @@ printf("\n");
 }
 ```
 ## OUTPUT:
-![image](https://github.com/22008421/Cryptography---19CS412-classical-techqniques/assets/119476328/39417e01-9dd5-4b24-916e-1b48a5067ef1)
+![Screenshot 2024-09-02 094324](https://github.com/user-attachments/assets/5960e695-a6e6-4c2f-96e6-297f20dc0018)
+
 
 ## RESULT:
 The program is executed successfully
