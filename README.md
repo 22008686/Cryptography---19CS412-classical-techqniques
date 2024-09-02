@@ -62,7 +62,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/22008421/Cryptography---19CS412-classical-techqniques/assets/119476328/50986280-5169-4cfa-aab9-2a0b18c6e158)
+![Screenshot 2024-09-02 094114](https://github.com/user-attachments/assets/a29e9251-77c9-41cc-ba33-29ce225f7ca1)
+
 
 ## RESULT:
 The program is executed successfully
