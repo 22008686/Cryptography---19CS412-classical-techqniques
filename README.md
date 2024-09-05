@@ -24,7 +24,7 @@ Implementation using C or pyhton code
 
 
 ## PROGRAM:
-```C
+```c#
 #include <stdio.h>
 #include <string.h>
 
