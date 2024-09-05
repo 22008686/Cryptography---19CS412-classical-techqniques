@@ -133,7 +133,7 @@ lies on the same row as the first letter of the plaintext pair.
 
 
 ## PROGRAM:
-```C
+```C#
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -367,7 +367,7 @@ Testing algorithm with different key values.
 
 
 ## PROGRAM:
-```C
+```C#
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -493,7 +493,7 @@ Testing algorithm with different key values.
  - It consists of the alphabet written out 26 times in different rows, each alphabet shifted cyclically to the left compared to the previous alphabet, corresponding to the 26 possible Caesar ciphers. At different points in the encryption process, the cipher uses a different alphabet from one of the rows used. The alphabet at each point depends on a repeating keyword.
 
 ## PROGRAM:
-```C
+```C#
 #include <stdio.h>
 #include <stdlib.h>  // For exit() function
 #include <ctype.h>   // For toupper() function
@@ -602,7 +602,7 @@ Testing algorithm with different key values.
 - When we reach the top rail, the message is written downwards again until the whole plaintext is written out. The message is then read off in rows.
 
 ## PROGRAM:
-```C
+```C#
 #include <stdio.h>
 #include <string.h>
 
